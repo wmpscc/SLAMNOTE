@@ -3,4 +3,4 @@
 
 ## 目录
 ### - [C++ 2.0](./CPP11)
-### - [习题作业](https://github.com/wmpscc/SLAMNOTE/tree/master/book2/assignment)
+### - [习题作业](./book2/assignment)
