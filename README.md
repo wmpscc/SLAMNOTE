@@ -3,7 +3,10 @@
 高翔博士官方[repo](https://github.com/gaoxiang12/slambook2)
 
 ## 目录
-#### - [C++ 2.0](./CPP11)
-#### - [习题作业](./book2/assignment)
+### - [C++ 2.0](./CPP11)
+### - [习题作业](./book2/assignment)
+- #### [ch1](./book2/assignment/ch1)
+- #### [ch2](./book2/assignment/ch2)
+
 
 
