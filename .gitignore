@@ -213,3 +213,6 @@ _deps
 *_REMOTE_*.txt
 
 # End of https://www.gitignore.io/api/git
+
+
+push.sh
