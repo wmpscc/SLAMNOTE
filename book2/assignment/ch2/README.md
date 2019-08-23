@@ -75,7 +75,7 @@ make: *** [all] Error 2
 ```
 
 ## 运行ORB-SLAM2
-ORB-SLAM2[4] 是一个非常经典的视觉 SLAM 开源方案,它可以作为你学习 SLAM 的范本。
+[ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) 是一个非常经典的视觉 SLAM 开源方案,它可以作为你学习 SLAM 的范本。
 
 ### 安装
 #### CUDA9.0
