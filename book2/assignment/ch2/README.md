@@ -57,7 +57,7 @@ make: *** [all] Error 2
 - 注释
 ``` cmake
 # 共享库
-add_library(hello_shared SHARED libHelloSLAM.cpp)
+# add_library(hello_shared SHARED libHelloSLAM.cpp)
 ```
 报错
 ``` cmake 
