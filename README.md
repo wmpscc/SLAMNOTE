@@ -7,6 +7,6 @@
 ### - [习题作业](./book2/assignment)
 - #### [ch1](./book2/assignment/ch1)
 - #### [ch2](./book2/assignment/ch2)
-
+- #### [ch3](./book2/assignment/ch3)
 
 
